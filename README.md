@@ -1,4 +1,4 @@
-# Nexus Forms
+# Data Hub
 A **Data Collection Platform** with the support of plugins in plug-n-play fashion.
 
 ## How To Use
